@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-26T20:55:03.929Z'
-dateModified: '2016-02-26T20:55:02.873Z'
+datePublished: '2016-02-26T22:01:22.455Z'
+dateModified: '2016-02-26T22:01:21.635Z'
 title: Persianas para Sacada
 author: []
+sourcePath: _posts/2016-02-26-persianas-para-sacada.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-26-persianas-para-sacada.md
-published: true
 url: persianas-para-sacada/index.html
 _type: Article
 
@@ -32,5 +32,6 @@ A varanda do seu apartamento ou residência seja ela o espaço gourmet ou o loca
 Cada vez mais belas e valorizadas, as varandas são multifuncionais. Elas atuam como salas de estar, de jantar e como área gourmet. 
 
 [https://youtu.be/I0cY8JIo8\_k][0]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/82d4ecef-aa12-40be-8061-cdc7d51502ef.jpg)
 
 [0]: https://youtu.be/I0cY8JIo8_k
