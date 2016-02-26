@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nedina Cortinas]]></title>
+        <description><![CDATA[Nedina Cortinas]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 26 Feb 2016 20:55:13 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Persianas para Sacada]]></title>
+            <description><![CDATA[<article><h1>Persianas para Sacada</h1><p>A varanda do seu apartamento ou residência seja ela o espaço gourmet ou o local para apreciar a vista com conforto, privacidade  e aconchego. Integrar a sacada com a sala de estar amplia o ambiente e as persianas tem um papel importante nessa integração, porque filtram a luz, protegem os móveis e arremata a decoração.</p></article>]]></description>
+            <link>undefinedpersianas-para-sacada/index.html</link>
+            <guid isPermaLink="false">81813fb1-a8b6-4765-a47d-b56eb34b5cb7</guid>
+            <pubDate>Fri, 26 Feb 2016 20:55:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
