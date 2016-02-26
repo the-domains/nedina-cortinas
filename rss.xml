@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nedina Cortinas]]></title>
         <description><![CDATA[Nedina Cortinas]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nedina-cortinas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 20:55:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 22:01:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nedina-cortinas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Persianas para Sacada]]></title>
-            <description><![CDATA[<article><h1>Persianas para Sacada</h1><p>A varanda do seu apartamento ou residência seja ela o espaço gourmet ou o local para apreciar a vista com conforto, privacidade  e aconchego. Integrar a sacada com a sala de estar amplia o ambiente e as persianas tem um papel importante nessa integração, porque filtram a luz, protegem os móveis e arremata a decoração.</p></article>]]></description>
-            <link>undefinedpersianas-para-sacada/index.html</link>
+            <description><![CDATA[<article><h1>Persianas para Sacada</h1><p>A varanda do seu apartamento ou residência seja ela o espaço gourmet ou o local para apreciar a vista com conforto, privacidade  e aconchego. Integrar a sacada com a sala de estar amplia o ambiente e as persianas tem um papel importante nessa integração, porque filtram a luz, protegem os móveis e arremata a decoração.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b077dbe5dd5d0c3b5cce8fb75076f718a242606f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nedina-cortinas/persianas-para-sacada/index.html</link>
             <guid isPermaLink="false">81813fb1-a8b6-4765-a47d-b56eb34b5cb7</guid>
-            <pubDate>Fri, 26 Feb 2016 20:55:03 GMT</pubDate>
+            <pubDate>Fri, 26 Feb 2016 22:01:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
