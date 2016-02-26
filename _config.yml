@@ -1,0 +1,28 @@
+name: Nedina Cortinas
+favicon: null
+layout_spectrum: 0.04349019820801914
+typography_spectrum: 0.830993470735848
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.48030240228399634
+  lightness: 0.770099596818909
+  saturation: 0.094939369475469
+  rhythmicContrast: 0.7779229935258627
+purpose: []
