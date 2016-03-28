@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "A varanda do seu apartamento ou residência seja ela o espaço gourmet ou o local para apreciar a vista com conforto, privacidade \_e aconchego. Integrar a sacada com a sala de estar amplia o ambiente e as persianas tem um papel importante nessa integração, porque filtram a luz, protegem os móveis e arremata a decoração."
-datePublished: '2016-03-28T01:03:50.594Z'
-dateModified: '2016-03-28T01:03:08.382Z'
+datePublished: '2016-03-28T01:05:52.770Z'
+dateModified: '2016-03-28T01:03:55.950Z'
 title: Persianas para Sacada
 author: []
 sourcePath: _posts/2016-02-26-persianas-para-sacada.md
