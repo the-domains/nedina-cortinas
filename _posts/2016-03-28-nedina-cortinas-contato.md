@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.nedinacortinas.com/#!contato/c1et'
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Há 30 anos no mercado a Nedina Cortinas é uma empresa especializada no design de interior, fabricaçãp, comercialização e manutenção de cortinas e persianas.'
-datePublished: '2016-03-28T01:17:33.210Z'
-dateModified: '2016-03-28T01:17:06.379Z'
+datePublished: '2016-03-28T01:18:55.882Z'
+dateModified: '2016-03-28T01:18:37.563Z'
 author: []
 related: []
 app_links: []
