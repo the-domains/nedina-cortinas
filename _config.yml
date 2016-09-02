@@ -1,20 +1,4 @@
-name: Nedina Cortinas
-favicon: null
-layout_spectrum: 0.5166
 typography_spectrum: 0
-title: Nedina Cortinas
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.25
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5166
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Nedina Cortinas
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Nedina Cortinas
 purpose: []
