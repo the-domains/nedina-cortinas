@@ -1,20 +1,20 @@
-typography_spectrum: 0
+layout_spectrum: 0.23220866546034813
+typography_spectrum: 0.7234829133376479
 color:
   brandColors:
-    - '#ffffff'
-    - '#2d3190'
-    - '#0095d8'
-    - '#908fc5'
-    - '#8ed7f7'
-  brandStrength: 0.625
-  lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0.5
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.4123270749114454
+  lightness: 0.382698493078351
+  saturation: 0.021883196430280805
+  rhythmicContrast: 0.6215822224039584
 opengraph:
   image: null
   type: 'https://www.facebook.com/CORTINASNEDINA/'
   appId: null
-layout_spectrum: 0.5166
 analytics:
   google: null
   facebook: null
