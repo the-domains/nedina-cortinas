@@ -12,16 +12,20 @@ color:
   rhythmicContrast: 0.5
 opengraph:
   image: null
-  type: null
+  type: 'https://www.facebook.com/CORTINASNEDINA/'
   appId: null
 layout_spectrum: 0.5166
 analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Garden Marketing Digital
+  email: salmo@gardendigital.com.br
+  url: gardendigital.com.br
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd9cac16-3455-45e0-b254-034276a7a10c.png
-name: 'Mai que perto, juntos!'
+name: 'Mais que perto, juntos!'
 cta:
   domain: null
   bucket: null
